@@ -1,0 +1,37 @@
+
+nav{
+	background-color: #000000;
+}
+
+header nav div h1{
+	color: white;
+}
+@media (max-width: 576px) {
+	.container{
+		width: 90%;
+		margin-bottom: 20px;
+
+	}
+}
+@media(min-width: 992px){
+	header nav button{
+		 visibility: none;
+	}
+}
+body{
+	background-color: #00ffff;
+}
+section{
+	background-color: grey;
+}
+body h1{
+	padding: 20px;
+}
+section h3{
+	margin: 10px;
+	padding: 7px;
+	padding-top: 10px;
+}
+body section p{
+	padding: 10px;
+}
