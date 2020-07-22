@@ -31,3 +31,7 @@ section h3{
 body section p{
 	padding: 10px;
 }
+@media (min-width: 990px) {
+.nav-item{
+	display:none;
+}
